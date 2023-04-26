@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+   
+  body {
+    background: #f8f2f2;
+  }
+   
+  h3{
+     text-align: center;
+     margin: 5%;
+     font-size: 3rem;
+     text-decoration: underline;
+  }
+   
+  ul {
+    text-align: left;
+    padding: 5%;
+    font-size: 2rem;
+    list-style:disc;
+  }
+   
+  li:hover{
+    cursor: pointer;
+  }
+  div#data {
+    background-color: rgba(15, 58, 214, 0.25);
+    box-shadow: 20px 20px 20px #98b4fb;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
